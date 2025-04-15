@@ -1,0 +1,19 @@
+name: muscle
+channels:
+  - conda-forge
+  
+dependencies:
+  #- python=3.10
+  - dcm2niix
+  - ipywidgets
+  - jupyter
+  - jupyterlab
+  - matplotlib
+  #- nibabel=5.2.1
+  - notebook
+  - numpy
+  - pandas
+  - pydicom
+  - scikit-image
+  - simpleitk
+  
